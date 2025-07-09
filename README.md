@@ -3,4 +3,4 @@
 
 - 🔭 Atualmente estou cursando programação
 - 🌱 Atualmente estudando JavaScript
-- 😄 Pronouns:Ele/Dele
+- 😄 Pronomes:Ele/Dele
