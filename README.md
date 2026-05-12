@@ -13,7 +13,7 @@
 ### 💻 Desenvolvedor Front-End em evolução
 ### 🚀 Apaixonado por tecnologia, interfaces modernas e programação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Estudando+React+e+JavaScript;Criando+interfaces+modernas;Apaixonado+por+tecnologia+e+design;Sempre+aprendendo+algo+novo;Cassio+roubou+minha+cobra"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Estudando+React+e+JavaScript;Criando+interfaces+modernas;Apaixonado+por+tecnologia+e+design;Sempre+aprendendo+algo+novo"/>
 
 </div>
 
